@@ -1,11 +1,10 @@
-# CA2RXU LoRa APRS Tracker/Station
-
-This firmware is for using ESP32 based boards with LoRa Modules and GPS to live in the APRS world.
+# Funcionalidad LoRa APRS Tracker, GRUPO 5
 
 ![Screenshot](https://github.com/richonguzman/LoRa_APRS_Tracker/blob/main/images/OledScreen2.jpeg)
 
 __(NOTE: To use Tx/Rx capabilities of this tracker you should have also an Tx/Rx <a href="https://github.com/richonguzman/LoRa_APRS_iGate" target="_blank">LoRa iGate</a> near you)__
 <br />
+![Evidencia Conexión](https://github.com/user-attachments/assets/2b594279-ca13-4bb2-9980-1ee5e5cbaf60)
 
 ____________________________________________________
 
