@@ -47,7 +47,7 @@ APRS  utiliza principalmente el protocolo AX.25, que es un estándar de comunica
   - Servidores APRS-IS.
 
 # Legislación Costarricense 🔵⚪🔴⚪🔵
-## Cuadro Nacional de Atribución del PNAF
+## Cuadro Nacional de Atribución del PNAF (https://sutel.go.cr/sites/default/files/normativas/Plan%20Nacional%20de%20Atribuicio%CC%81n%20de%20Frecuencias%20%28mayo%202023%29_0.pdf )
 El Plan Nacional de Atribución de Frecuencias (PNAF), establecido mediante el Decreto Nº 44010-MICITT y publicado en el Alcance N°99 de la Gaceta N°95, con fecha 30 de mayo de 2023, define las bandas de frecuencia destinadas a diversos servicios de telecomunicaciones, incluyendo aquellas utilizadas por tecnologías como LoRa y APRS.
 ## Permisos requeridos para operar un sistema LoRa/APRS
 En Costa Rica, la operación de sistemas de radiofrecuencia debe cumplir con las normativas establecidas por el MICITT. Para el caso de los sistemas APRS, es obligatorio que los operadores cuenten con una licencia de radioaficionado válida. En cuanto al uso de tecnología LoRa, su legalidad depende de la banda de frecuencia empleada, la cual puede estar clasificada como de uso libre o requerir una autorización específica.
